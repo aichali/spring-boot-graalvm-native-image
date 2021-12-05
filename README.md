@@ -9,4 +9,4 @@
 	- the configuration is already presents in the pom.xml
 	- build the image with the command : mvn spring-boot:build-image
 	
-        ![native-image](https://user-images.githubusercontent.com/68104000/144757552-47adbf50-93f6-4818-8256-6802854433d3.png)
+      ![native-image](https://user-images.githubusercontent.com/68104000/144757552-47adbf50-93f6-4818-8256-6802854433d3.png)
